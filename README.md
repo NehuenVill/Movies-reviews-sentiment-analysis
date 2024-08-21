@@ -7,8 +7,8 @@ This project implements sentiment analysis on IMDB movie reviews, using machine 
 1. Clone the repository:
 
 ```
-git clone https://github.com/NehuenVill/Neural-Networks-From-Scratch.git
-cd Neural-Networks-From-Scratch
+git clone https://github.com/NehuenVill/Movies-reviews-sentiment-analysis.git
+cd Movies-reviews-sentiment-analysis
 ```
 
 ## Dataset
